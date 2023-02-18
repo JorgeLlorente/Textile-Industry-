@@ -10,7 +10,7 @@ The main income from this company comes from the production of tissue for mattre
 
 ## Link to Tableau Public
 
-The next link provides all insights obtained with Tableau: [link](https://public.tableau.com/app/profile/jorge8134/viz/Bobinas/Paros-TiempoxMotivo)
+The next link provides all insights obtained with Tableau: [](https://public.tableau.com/app/profile/jorge8134/viz/Bobinas/Paros-TiempoxMotivo)
 
 ## Acknowledgements
 
