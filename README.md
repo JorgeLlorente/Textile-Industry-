@@ -14,7 +14,7 @@ To do so, this project solves this task using Tableau in order to automate the p
 
 ## Link to Tableau Public
 
-The next link provides all insights obtained with Tableau: [Tableau Public File](https://public.tableau.com/app/profile/jorge8134/viz/Bobinas/Paros-TiempoxMotivo)
+The next link provides all insights obtained with Tableau: [Tableau Public File](https://public.tableau.com/app/profile/jorge8134/viz/algabeo/Dashboard1?publish=yes)
 
 ## Acknowledgements
 
