@@ -18,4 +18,4 @@ The next link provides all insights obtained with Tableau: [Tableau Public File]
 
 ## Acknowledgements
 
-This project has been created thanks to the cooperation of the client, through a series of interviews needed to determine the scope of the project and the main numbers the client wanted to retrieve.
+This project has been created thanks to the cooperation of the client, through a series of interviews needed to determine the scope of the project and the figures the client wanted to obtain.
